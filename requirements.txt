@@ -37,6 +37,6 @@ termcolor==1.1.0
 tflearn==0.5.0
 toml==0.10.2
 typing-extensions==3.7.4.3
-urllib3==1.26.3
+urllib3==1.26.5
 Werkzeug==1.0.1
 wrapt==1.12.1
